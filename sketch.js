@@ -197,7 +197,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -256,7 +256,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }  
@@ -315,7 +315,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -361,7 +361,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -402,7 +402,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -485,7 +485,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -543,7 +543,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -601,7 +601,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -680,7 +680,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -739,7 +739,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -798,7 +798,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -877,7 +877,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -935,7 +935,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -994,7 +994,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1073,7 +1073,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1132,7 +1132,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1191,7 +1191,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1269,7 +1269,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1327,7 +1327,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1385,7 +1385,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1468,7 +1468,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1526,7 +1526,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1584,7 +1584,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1667,7 +1667,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1726,7 +1726,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1785,7 +1785,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1864,7 +1864,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1922,7 +1922,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -1980,7 +1980,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -2059,7 +2059,7 @@ function draw() {
     if (keyIsDown(ESCAPE)) {
       tela = 1;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }
@@ -2205,7 +2205,7 @@ function draw() {
     if (keyIsDown(UP_ARROW)) {
       tela = 3;
       cont = 0;
-      pont = 0;
+      pontos = 0;
       questao = 0;
     }
   }  
